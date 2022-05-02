@@ -1,0 +1,63 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+body {
+  background-color: #fafafa;
+  font-size: 62.5%;
+}
+#container {
+  border: 1px solid red;
+  padding: 0 3rem;
+}
+.login {
+  display: flex;
+  flex-direction: column;
+  padding: 2.5rem 0 2rem 0;
+  border: 1px solid yellow;
+}
+.logo {
+  display: flex;
+  justify-content: center;
+}
+.logo a img {
+  width: 10.5rem;
+}
+.profile-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1.1rem;
+}
+.image {
+  width: 5.5rem;
+  border-radius: 100%;
+  overflow: hidden;
+}
+.profile-image img {
+  width: 100%;
+}
+.login-buttons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+.continue-button {
+  color: #ffffff;
+  background-color: #0095f6;
+  border: none;
+  width: auto;
+  font-size: 0.9rem;
+  padding: 0.35rem 0.6rem;
+  border-radius: 3px;
+}
+.remove-account {
+  color: #0095f6;
+  background-color: transparent;
+  border: transparent;
+  font-size: 0.9rem;
+}
