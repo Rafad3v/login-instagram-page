@@ -119,13 +119,13 @@ body {
   margin-top: 1rem;
 }
 .apple, .android {
-  width: 45%;
+  width: 48%;
 }
 .app-links img {
   width: 100%;
 }
 .image-area {
-  background: url(/img/instagram-celular.png) no-repeat;
+  background: url(../img/instagram-celular.png) no-repeat;
   background-position: center;
   height: 107%;
   width: 50%;
@@ -181,6 +181,8 @@ body {
   }
   .image-area {
     display: block;
+    height: 107%;
+    width: 50%;
   }
   .change-or-subscribe {
     margin: 0.7rem 0rem;
