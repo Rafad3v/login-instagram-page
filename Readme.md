@@ -22,4 +22,4 @@ Esse projeto é uma recriação da página inicial do instagram web. Ele foi fei
 ![mobile1](img/img-2.png)
 &nbsp;
 
-![mobile1](img/img-3.png)
+![mobile1](img/desktop.png)
